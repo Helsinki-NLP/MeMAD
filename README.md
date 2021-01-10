@@ -13,7 +13,7 @@ Methods for Managing Audiovisual Data
 
 ### Participants and person months
 
-Helsinki: 33, Aalto: 15, Linecraft: 3, Surrey: 2, Yle: 2, Lingsoft: 1
+Helsinki: 33, Aalto: 15, Limecraft: 3, Surrey: 2, Yle: 2, Lingsoft: 1
 
 ### Description of work
 
